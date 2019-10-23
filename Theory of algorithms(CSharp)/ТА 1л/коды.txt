@@ -1,0 +1,114 @@
+//№1.
+#define _USE_MATH_DEFINES
+#include <iostream>
+#include <math.h>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+	setlocale(LC_ALL, "Rus");
+	//Хасанов Алмаз 4333
+	double Y, gam, c, b, x, z, r, f;
+
+	cout << "Gamma = "; cin >> gam;
+	cout << "c = "; cin >> c;
+	cout << "b = "; cin >> b;
+	cout << "x = "; cin >> x;
+	cout << "z = "; cin >> z;
+	cout << "r = "; cin >> r;
+	cout << "f = "; cin >> f;
+
+	double a = b*b;
+	a += c;
+	a = log(a);
+	double d = sin(x);
+	a /= d;
+	d = -(gam) + f;
+	d = pow(M_E, d);
+	a += d;
+	d = pow(r, b);
+	a += d;
+	d = z + r;
+	d = sqrt(d);
+	Y = a + d;
+	cout << "Результат Y = " << Y <<endl;
+
+	system("pause");
+	return 0;
+}
+/////////////////////////////////////////////////////////////////\\
+//№2
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	setlocale(LC_ALL, "Rus");
+	//Хасанов Алмаз 4333
+	int x, y, k;
+	cout << "X = "; cin >> x;
+	cout << "Y = "; cin >> y;
+
+	if (x >= 0)
+		if (y >= 0)
+			k = 1;
+		else
+			k = 4;
+	else
+		if (y >= 0)
+			k = 2;
+		else
+			k = 3;
+
+	if (x == 0)
+		if (y == 0)
+			cout << "Это начало координат" << endl;
+		else
+			cout << k << " четверть";
+	else
+		cout << k << " четверть" << endl;
+
+	system("pause");
+	return 0;
+}
+/////////////////////////////////////////////////////////////////\\
+//№3
+#define _USE_MATH_DEFINES
+#include <iostream>
+#include <math.h>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+	setlocale(LC_ALL, "Rus");
+	//Хасанов Алмаз 4333
+	double a, b, n;
+	cout << "a = "; cin >> a;
+	cout << "b = "; cin >> b;
+	cout << "n = "; cin >> n;
+
+	double s = a + b;
+	double f = n++;
+	s /= f;
+	f = a;
+	f += s;
+
+	while (f < b)
+	{
+		int y = -0.5 * f;
+		y = pow(M_E, y);
+		y = 1 - y;
+		y *= 5;
+		double c = pow(2, M_PI);
+		c *= f;
+		c = cos(c);
+		y *= c;
+		cout << "Y = " << y << endl;
+		f += s;
+	}
+
+	system("pause");
+	return 0;
+}

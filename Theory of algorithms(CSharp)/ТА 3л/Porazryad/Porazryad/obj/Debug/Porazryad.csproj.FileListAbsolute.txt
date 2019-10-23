@@ -1,0 +1,6 @@
+C:\Users\almaz\Desktop\Porazryad\Porazryad\bin\Debug\Porazryad.exe.config
+C:\Users\almaz\Desktop\Porazryad\Porazryad\bin\Debug\Porazryad.exe
+C:\Users\almaz\Desktop\Porazryad\Porazryad\bin\Debug\Porazryad.pdb
+C:\Users\almaz\Desktop\Porazryad\Porazryad\obj\Debug\Porazryad.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\Porazryad\Porazryad\obj\Debug\Porazryad.exe
+C:\Users\almaz\Desktop\Porazryad\Porazryad\obj\Debug\Porazryad.pdb

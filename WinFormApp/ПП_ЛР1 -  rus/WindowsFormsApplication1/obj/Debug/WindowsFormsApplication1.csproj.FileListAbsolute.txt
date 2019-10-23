@@ -1,0 +1,26 @@
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\ПП_ЛР1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

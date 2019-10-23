@@ -1,0 +1,6 @@
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\bin\Debug\ConsoleApplication5Csharp.exe.config
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\bin\Debug\ConsoleApplication5Csharp.exe
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\bin\Debug\ConsoleApplication5Csharp.pdb
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\obj\Debug\ConsoleApplication5Csharp.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\obj\Debug\ConsoleApplication5Csharp.exe
+C:\Users\almaz\Desktop\Новая папка (2)\ConsoleApplication5Csharp\ConsoleApplication5Csharp\obj\Debug\ConsoleApplication5Csharp.pdb

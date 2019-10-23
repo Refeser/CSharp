@@ -1,0 +1,9 @@
+C:\Users\almaz\Desktop\L5\L5\bin\Debug\L5.exe.config
+C:\Users\almaz\Desktop\L5\L5\bin\Debug\L5.exe
+C:\Users\almaz\Desktop\L5\L5\bin\Debug\L5.pdb
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.Form1.resources
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.Properties.Resources.resources
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.exe
+C:\Users\almaz\Desktop\L5\L5\obj\Debug\L5.pdb

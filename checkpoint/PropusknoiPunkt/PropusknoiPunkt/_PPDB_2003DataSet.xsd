@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_PPDB_2003DataSet" targetNamespace="http://tempuri.org/_PPDB_2003DataSet.xsd" xmlns:mstns="http://tempuri.org/_PPDB_2003DataSet.xsd" xmlns="http://tempuri.org/_PPDB_2003DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="PPDB_2003ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="PPDB_2003ConnectionString (Settings)" PropertyReference="ApplicationSettings.PropusknoiPunkt.Properties.Settings.GlobalReference.Default.PPDB_2003ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AttendanceTableAdapter" GeneratorDataComponentClassName="AttendanceTableAdapter" Name="Attendance" UserDataComponentName="AttendanceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="PPDB_2003ConnectionString (Settings)" DbObjectName="Attendance" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Full_name, Date_of_attendance, Enter_time, Leave_time, Payment_per_hour, Overtime_pay FROM Attendance</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Full_name" DataSetColumn="Full_name" />
+              <Mapping SourceColumn="Date_of_attendance" DataSetColumn="Date_of_attendance" />
+              <Mapping SourceColumn="Enter_time" DataSetColumn="Enter_time" />
+              <Mapping SourceColumn="Leave_time" DataSetColumn="Leave_time" />
+              <Mapping SourceColumn="Payment_per_hour" DataSetColumn="Payment_per_hour" />
+              <Mapping SourceColumn="Overtime_pay" DataSetColumn="Overtime_pay" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_PPDB_2003DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_PPDB_2003DataSet" msprop:Generator_UserDSName="_PPDB_2003DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Attendance" msprop:Generator_TableClassName="AttendanceDataTable" msprop:Generator_TableVarName="tableAttendance" msprop:Generator_TablePropName="Attendance" msprop:Generator_RowDeletingName="AttendanceRowDeleting" msprop:Generator_RowChangingName="AttendanceRowChanging" msprop:Generator_RowEvHandlerName="AttendanceRowChangeEventHandler" msprop:Generator_RowDeletedName="AttendanceRowDeleted" msprop:Generator_UserTableName="Attendance" msprop:Generator_RowChangedName="AttendanceRowChanged" msprop:Generator_RowEvArgName="AttendanceRowChangeEvent" msprop:Generator_RowClassName="AttendanceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Full_name" msprop:Generator_ColumnVarNameInTable="columnFull_name" msprop:Generator_ColumnPropNameInRow="Full_name" msprop:Generator_ColumnPropNameInTable="Full_nameColumn" msprop:Generator_UserColumnName="Full_name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="536870910" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Date_of_attendance" msprop:Generator_ColumnVarNameInTable="columnDate_of_attendance" msprop:Generator_ColumnPropNameInRow="Date_of_attendance" msprop:Generator_ColumnPropNameInTable="Date_of_attendanceColumn" msprop:Generator_UserColumnName="Date_of_attendance" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Enter_time" msprop:Generator_ColumnVarNameInTable="columnEnter_time" msprop:Generator_ColumnPropNameInRow="Enter_time" msprop:Generator_ColumnPropNameInTable="Enter_timeColumn" msprop:Generator_UserColumnName="Enter_time" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Leave_time" msprop:Generator_ColumnVarNameInTable="columnLeave_time" msprop:Generator_ColumnPropNameInRow="Leave_time" msprop:Generator_ColumnPropNameInTable="Leave_timeColumn" msprop:Generator_UserColumnName="Leave_time" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Payment_per_hour" msprop:Generator_ColumnVarNameInTable="columnPayment_per_hour" msprop:Generator_ColumnPropNameInRow="Payment_per_hour" msprop:Generator_ColumnPropNameInTable="Payment_per_hourColumn" msprop:Generator_UserColumnName="Payment_per_hour" type="xs:int" minOccurs="0" />
+              <xs:element name="Overtime_pay" msprop:Generator_ColumnVarNameInTable="columnOvertime_pay" msprop:Generator_ColumnPropNameInRow="Overtime_pay" msprop:Generator_ColumnPropNameInTable="Overtime_payColumn" msprop:Generator_UserColumnName="Overtime_pay" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

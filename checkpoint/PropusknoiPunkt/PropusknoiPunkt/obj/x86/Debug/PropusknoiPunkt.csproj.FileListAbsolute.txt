@@ -1,0 +1,13 @@
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\bin\x86\Debug\PropusknoiPunkt.exe.config
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\bin\x86\Debug\PPDB-2003.mdb
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\bin\x86\Debug\PropusknoiPunkt.exe
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\bin\x86\Debug\PropusknoiPunkt.pdb
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.Authorization.resources
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.AdminForm.resources
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.UserForm.resources
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.WaggonForm.resources
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.Properties.Resources.resources
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.exe
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.pdb
+C:\Users\almaz\Desktop\курсач_3курс_1семестр\PropusknoiPunkt\PropusknoiPunkt\obj\x86\Debug\PropusknoiPunkt.csprojResolveAssemblyReference.cache

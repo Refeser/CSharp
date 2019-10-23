@@ -1,0 +1,14 @@
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\bin\Debug\PP_LR6.exe.config
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.MainForm.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.Properties.Resources.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\bin\Debug\PP_LR6.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\bin\Debug\PP_LR6.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\obj\Debug\PP_LR6.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\bin\Debug\COMPSAL.mdf
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR6\PP_LR6\bin\Debug\COMPSAL_log.ldf
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR6\PP_LR6\bin\Debug\PP_LR6.exe.config
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR6\PP_LR6\obj\Debug\PP_LR6.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR6\PP_LR6\obj\Debug\PP_LR6.pdb

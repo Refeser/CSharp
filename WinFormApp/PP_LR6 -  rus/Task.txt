@@ -1,0 +1,3 @@
+The task is to write an application on Windows Forms 
+that allows you to connect to a remote database, 
+view its contents, and execute standard SQL queries.

@@ -1,0 +1,18 @@
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\bin\Debug\L2.exe.config
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\bin\Debug\L2.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\bin\Debug\L2.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.Form1.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.Properties.Resources.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\L2\L2\obj\Debug\L2.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\bin\Debug\L2.exe.config
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\bin\Debug\L2.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\bin\Debug\L2.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.Form1.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.Properties.Resources.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\L2\L2\obj\Debug\L2.csproj.GenerateResource.Cache

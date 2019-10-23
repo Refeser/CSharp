@@ -1,0 +1,15 @@
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\bin\Release\PropusknoiPunkt.exe.config
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\bin\Release\App_Data\PPDB.mdf
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\bin\Release\App_Data\PPDB_log.ldf
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\bin\Release\PropusknoiPunkt.exe
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\bin\Release\PropusknoiPunkt.pdb
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.Authorization.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.Days.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.EnterAdd.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.AdminForm.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.UserForm.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.Properties.Resources.resources
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.exe
+C:\Users\almaz\Desktop\checkpoint\PropusknoiPunkt\PropusknoiPunkt\obj\Release\PropusknoiPunkt.pdb

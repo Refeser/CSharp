@@ -1,0 +1,9 @@
+C:\Users\almaz\Desktop\L4\L4\bin\Debug\L4.exe.config
+C:\Users\almaz\Desktop\L4\L4\bin\Debug\L4.exe
+C:\Users\almaz\Desktop\L4\L4\bin\Debug\L4.pdb
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.Form1.resources
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.Properties.Resources.resources
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.exe
+C:\Users\almaz\Desktop\L4\L4\obj\Debug\L4.pdb

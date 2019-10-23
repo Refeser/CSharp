@@ -1,0 +1,6 @@
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\bin\Debug\ConsoleLab2.exe.config
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\bin\Debug\ConsoleLab2.exe
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\bin\Debug\ConsoleLab2.pdb
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\obj\Debug\ConsoleLab2.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\obj\Debug\ConsoleLab2.exe
+C:\Users\almaz\Desktop\ConsoleLab2\ConsoleLab2\obj\Debug\ConsoleLab2.pdb

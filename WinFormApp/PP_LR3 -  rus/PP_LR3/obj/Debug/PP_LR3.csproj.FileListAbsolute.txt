@@ -1,0 +1,18 @@
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\bin\Debug\PP_LR3.exe.config
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.Form1.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.Properties.Resources.resources
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.csproj.GenerateResource.Cache
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\bin\Debug\PP_LR3.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\bin\Debug\PP_LR3.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\Прикладное программирование\PP_LR3\PP_LR3\obj\Debug\PP_LR3.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\bin\Debug\PP_LR3.exe.config
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\bin\Debug\PP_LR3.exe
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\bin\Debug\PP_LR3.pdb
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.Form1.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.Properties.Resources.resources
+C:\Users\almaz\Desktop\git\labsCsharp\WinFormApp\PP_LR3\PP_LR3\obj\Debug\PP_LR3.csproj.GenerateResource.Cache

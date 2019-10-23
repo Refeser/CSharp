@@ -1,0 +1,9 @@
+C:\Users\almaz\Desktop\TA3L\TA3L\bin\Debug\TA3L.exe.config
+C:\Users\almaz\Desktop\TA3L\TA3L\bin\Debug\TA3L.exe
+C:\Users\almaz\Desktop\TA3L\TA3L\bin\Debug\TA3L.pdb
+C:\Users\almaz\Desktop\TA3L\TA3L\obj\Debug\TA3L.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\TA3L\TA3L\obj\Debug\TA3L.exe
+C:\Users\almaz\Desktop\TA3L\TA3L\obj\Debug\TA3L.pdb
+C:\Users\almaz\Desktop\учеба\3курс_1сем\ТеорияАлгоритмов\ТА 3л\TA3L\TA3L\bin\Debug\TA3L.exe.config
+C:\Users\almaz\Desktop\учеба\3курс_1сем\ТеорияАлгоритмов\ТА 3л\TA3L\TA3L\obj\Debug\TA3L.exe
+C:\Users\almaz\Desktop\учеба\3курс_1сем\ТеорияАлгоритмов\ТА 3л\TA3L\TA3L\obj\Debug\TA3L.pdb

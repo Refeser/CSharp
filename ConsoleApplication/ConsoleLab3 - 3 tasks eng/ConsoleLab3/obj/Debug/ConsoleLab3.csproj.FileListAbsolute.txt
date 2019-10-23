@@ -1,0 +1,5 @@
+C:\Users\almaz\Desktop\ConsoleLab3\ConsoleLab3\bin\Debug\ConsoleLab3.exe.config
+C:\Users\almaz\Desktop\ConsoleLab3\ConsoleLab3\bin\Debug\ConsoleLab3.exe
+C:\Users\almaz\Desktop\ConsoleLab3\ConsoleLab3\bin\Debug\ConsoleLab3.pdb
+C:\Users\almaz\Desktop\ConsoleLab3\ConsoleLab3\obj\Debug\ConsoleLab3.exe
+C:\Users\almaz\Desktop\ConsoleLab3\ConsoleLab3\obj\Debug\ConsoleLab3.pdb

@@ -1,0 +1,6 @@
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\bin\Debug\MKS_povtor.exe.config
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\bin\Debug\MKS_povtor.exe
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\bin\Debug\MKS_povtor.pdb
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\obj\Debug\MKS_povtor.csprojResolveAssemblyReference.cache
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\obj\Debug\MKS_povtor.exe
+C:\Users\almaz\Desktop\MKS_povtor\MKS_povtor\obj\Debug\MKS_povtor.pdb

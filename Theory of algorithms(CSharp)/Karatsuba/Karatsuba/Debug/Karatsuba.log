@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\almaz\desktop\karatsuba\karatsuba\main.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\almaz\desktop\karatsuba\karatsuba\main.cpp(49): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\almaz\Desktop\Karatsuba\Debug\Karatsuba.exe for writing
